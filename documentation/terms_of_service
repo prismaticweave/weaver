@@ -1,0 +1,204 @@
+# Weaver Terms of Service
+**Version 1.0**  
+**Last updated: 08.04.25**
+
+## 1. Introduction
+
+Welcome to Weaver, a local-first assistant application developed by Prismatic Weave Studio (pending LLC formation). By accessing, downloading, or using Weaver, you agree to the terms outlined in this Terms of Service agreement. If you do not agree with any of these terms, you must not use Weaver.
+
+Weaver is a desktop and browser-based AI assistant designed for reasoning, file analysis, and interactive querying.
+
+## 2. Software Conditions and Access
+
+Weaver operates entirely on client-side resources, meaning all core computations and processing are handled on your own machine. No cloud infrastructure or server access is required to use Weaver.
+
+**What does client-side mean?**  
+The software runs directly on your device (desktop or browser), and all processing—including file parsing, AI inference, and memory management—is performed locally.
+
+Weaver is optimized to run on consumer-grade hardware, including older laptops and systems with modest specifications.
+
+Weaver is available in two forms:
+
+- **Browser-based version**: Free to use under Personal or Academic use terms.
+- **Desktop application**: Paid one-time download that includes full offline functionality, access to custom features, and dedicated support.
+
+All dependencies are bundled with the installer where applicable.
+
+## 3. Data Privacy and Local Storage
+
+- Weaver does not collect personally identifiable information (PII) under any circumstance.
+- Once saved by the user, Weaver no longer manages any local data.
+- User-saved data is retained indefinitely unless manually deleted.
+- Memory data is stored locally and never shared externally.
+- Users can export and manage their data manually.
+
+For more, see the [Privacy, Memory, & Data Management Policy].
+
+## 4. Memory and Performance Data
+
+- Memory is available in all modes except temporary chat.
+- Performance data submission is entirely optional and only occurs with explicit user consent.
+- Submitted data is anonymized and used solely for performance improvements.
+- All submitted data is purged after 30–90 days unless retention is necessary for improvements.
+
+## 5. Red Flag Trigger System
+
+Weaver includes a built-in Red Flag Trigger System to detect and deter intentional misuse.
+
+- This system is local-only and does not access personal files or data.
+- If triggered, it may restrict features or introduce cooldowns.
+- No server-side actions are taken, and no identifiable data is collected.
+- A local recovery process is available if triggered incorrectly.
+
+Details are available in the [Red Flag Policy/Disclosure].
+
+## 6. Use Types
+
+### Personal Use
+
+Free for non-commercial use:
+
+- Personal research and content generation
+- File summarization and local memory
+- Query assistance
+
+**Support**: Community forum (TBD) or Weaver’s official site. Desktop app includes dedicated support.
+
+### Academic Use
+
+Permitted for researchers, students, and educators:
+
+- Citation-ready outputs
+- Accurate document parsing
+- Safe analysis of sensitive materials
+
+**Support**: Community forum or desktop app support.
+
+### Commercial Use
+
+Required for business workflows or client-facing work:
+
+- All data stays local
+- Suitable for remote/hybrid environments
+
+**Support**: Community forum or desktop app support.
+
+## 7. Custom Features and Requests
+
+Custom features may be requested by any user:
+
+- Requests are evaluated by the developer.
+- Public features may be released generally.
+- Specialized features may be quoted formally.
+
+## 8. Mobile Support
+
+Mobile apps are planned. The browser-based version will support mobile access.
+
+## 9. Updates and Features
+
+Weaver is under active development. Updates may include:
+
+- Bug fixes
+- New features
+- Performance improvements
+
+See the [Desktop App Security Policy] and [Web Interface Security Policy].
+
+## 10. Acceptable Use
+
+You agree not to:
+
+- Violate laws or regulations
+- Reverse engineer or tamper with the software
+- Generate malicious or unlawful content
+- Redistribute Weaver or components without permission
+
+Violations may lead to cooldowns, feature blocks, or legal action.
+
+## 11. Reverse Engineering and Protected Components
+
+- Reverse engineering of protected components is prohibited.
+- Open source modules may be modified under their licenses.
+- Proprietary logic remains the property of Prismatic Weave Studio.
+
+## 12. Licensing and Legal
+
+- Weaver is licensed under the MIT License.
+- Third-party licenses will be disclosed in final documentation.
+- You must comply with applicable export laws and regulations.
+
+## 13. Limited Warranty
+
+Weaver is provided “as is.” No guarantees are made regarding:
+
+- Performance
+- Accuracy
+- Reliability
+
+Use is at your own risk.
+
+## 14. Limitation of Liability
+
+To the maximum extent permitted by law, Prismatic Weave Studio is not liable for:
+
+- Data loss
+- Indirect or consequential damages
+- Inability to use the software
+
+The Red Flag Trigger System helps prevent abuse while preserving user privacy.
+
+## 15. Termination
+
+Violation of this agreement may result in:
+
+- Cooldowns
+- Encryption lockouts
+- Usage restrictions
+
+As no accounts are created, these local mechanisms serve as primary protections.
+
+## 16. Support and Contact
+
+### Community Support
+
+- Forums and GitHub available for general help and bug reports.
+
+### Desktop Support
+
+- Paid app users receive access to a dedicated support channel.
+
+### Accessibility Commitment
+
+We aim to meet recognized accessibility standards. Contact:  
+**accessibility@prismaticweave.studio**
+
+## 17. Change Log and Versioning
+
+For the latest version of this document, visit the [Weaver website] or GitHub repository.
+
+## 18. Governing Law
+
+These Terms are governed by U.S. law, unless superseded by local law.
+
+## 19. Ethics Policy
+
+Weaver is guided by ethical principles including:
+
+- Transparency
+- Privacy by design
+- Responsible AI use
+
+For more, see the [Ethics Policy].
+
+## 20. AI Usage and Limitations
+
+Weaver uses AI models to assist with reasoning and querying. Limitations include:
+
+- Possibility of inaccuracy or bias
+- Not a substitute for professional advice
+- No data is retained unless explicitly saved
+- Operates without human moderation
+
+By using Weaver, you agree to use it responsibly.
+
